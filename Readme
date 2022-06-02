@@ -1,0 +1,1 @@
+# take a simple tomcat , expose port 8081 and open in browser : http://localhost:8081/ command : docker build , docker run -it -d -p 8081(exposed port):8080(local) tomcatimage
